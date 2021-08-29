@@ -5,6 +5,5 @@
 <img width="" src="https://github-readme-stats.vercel.app/api/top-langs/?username=DamonA95&theme=dracula&layout=compact"/>
 </p>
   
-<p align="center"><img src="damonasigi3.jpg"></p>
 
 
