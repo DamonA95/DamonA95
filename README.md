@@ -1,3 +1,3 @@
 ### Hi there 👋
 
-<img align="left" src="damonasigi3.jpg">
+<p align="center"><img src="damonasigi3.jpg"></p>
